@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lisakemi
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on frontend and backend designing
+- 🤝 I’m looking to collaborate on frontend and backend designing
 - 📫 How to reach me; by email through lisarutasitara@gmail.com
 - ⚡ Fun fact: I love walking :)
 
